@@ -1,5 +1,5 @@
 {
-  "name": "lasuillard/terraform-github-organization",
+  "name": "lasuillard-s/terraform-github-organization",
   "image": "mcr.microsoft.com/devcontainers/base:1-bookworm",
   "features": {
     "ghcr.io/devcontainers-contrib/features/pre-commit:2": {},
